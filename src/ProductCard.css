@@ -84,10 +84,10 @@
   /* Media queries for 320px - 992px (Large mobile devices)  */
 
   @media screen and (min-width: 320px) and (max-width: 992px) {
-    .product-card .body {
+    /* .product-card .body {
       position: relative;
-       /* height: 40vh;  */
-  }
+       height: 36vh;
+  } */
 
   .product-card img {
     max-width: 50%;
@@ -100,6 +100,8 @@
   display: flex;
   flex-direction: column;
   justify-content: end;
+  position: relative;
+       height: 40vh;
 }
 .body h3, .body p, .body button {
   text-align: center;
