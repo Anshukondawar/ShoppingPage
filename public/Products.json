@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "image":"./1.jpg",
+        "name": "Think and Grow Rich",
+        "description":"Book by Napoleon Hil",
+        "price": 430
+    },
+    {
+        "id": 2,
+        "image":"./2.jpg",
+        "name": "Rich Dad Poor Dad",
+        "description":"Book by Robert Kiyosaki",
+        "price": 300
+    },
+    {
+        "id": 3,
+        "image":"./3.jpg",
+        "name": "The Psychology of Money",
+        "description":"Book by Morgan Housel",
+        "price": 370
+    },
+    {
+        "id": 4,
+        "image":"./4.jpg",
+        "name": "Atomic Habits",
+        "description":"Book by James Clear",
+        "price": 400
+    },
+    {
+        "id": 5,
+        "image":"./5.jpg",
+        "name": "The Valley of Fear",
+        "description":"Novel by A C Doyle",
+        "price": 500
+    },
+    {
+        "id": 6,
+        "image":"./6.jpg",
+        "name": "The Richest Man in Babylon",
+        "description":"Book by George Samuel",
+        "price": 420
+    },
+    {
+        "id": 7,
+        "image":"./7.jpg",
+        "name": "The Intelligent Investor",
+        "description":"Book by B Graham",
+        "price": 220  
+    },
+    {
+        "id": 8,
+        "image":"./8.jpg",
+        "name": "Energize Your Mind",
+        "description":"Book by Gaur Gopal Das",
+        "price": 395 
+    }
+]
